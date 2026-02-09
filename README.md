@@ -2,4 +2,4 @@
 
 Customer loyalty and rewards program
 
-Update 7 by Priya Sharma
+Update 8 by David Kim
